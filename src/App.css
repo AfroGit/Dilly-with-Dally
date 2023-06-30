@@ -25,6 +25,7 @@ main {
 
 input{
   margin: 17px;
+   vertical-align: middle
   /* display:inline-block; */
   /* position: relative; */
   margin-right: 10px;
