@@ -1,5 +1,33 @@
+*{
+  box-sizing: border-box;
+}
 main {
   text-align: center;
   vertical-align: center;
   line-height: 100vh
+}
+
+.uwezo{
+  border: 1px solid brown;
+  height: 275px;
+  display: inline-block;
+  background: #75FF75;
+  border-radius: 12px;
+  /* justify-content: space-between; */
+  align-items: center;
+  margin: 35px;
+  /* width: 80%; */
+  
+ 
+  
+}
+
+
+input{
+  margin: 17px;
+  /* display:inline-block; */
+  /* position: relative; */
+  margin-right: 10px;
+  /* border: 2px solid black; */
+  
 }
